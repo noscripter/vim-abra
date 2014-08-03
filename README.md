@@ -12,6 +12,6 @@ Vim color scheme based on Notepad++ obsidian scheme
 
 ### [NeoBundle](https://github.com/Shougo/neobundle.vim) install
 
-put `NeoBundle 'abra/vim-abra` in `.vimrc` and then run `:NeoBundleInstall`
+put `NeoBundle 'abra/vim-abra'` in `.vimrc` and then run `:NeoBundleInstall`
 
 
