@@ -3,6 +3,8 @@ abra
 
 Vim color scheme based on Notepad++ obsidian scheme
 
+![abra](https://dl.dropboxusercontent.com/u/5624413/screenshot.png)
+
 ## Installing
 
 ### Manual
