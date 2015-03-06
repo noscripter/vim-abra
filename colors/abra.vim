@@ -1,10 +1,10 @@
 " ----------------------------------------------------
 " Name:       abra - vim color scheme
 " Maintainer: Aydar Khabibullin <aydar.kh@gmail.com>
-" URL:        https://github.com/abra/abra
-" Version:    0.1
+" URL:        https://github.com/abra/vim-abra
+" Version:    0.2
 " Created:    01/30/2011 12:35:30 AM
-" Modified:   07/26/2014 03:30:17 AM
+" Modified:   03/06/2015 08:06:17 AM
 " ----------------------------------------------------
 
 set background=dark
